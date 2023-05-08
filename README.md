@@ -2,7 +2,7 @@
 
 Hi Friends this is the 3rd repository for learning Python which is required for Data Science.
 
-## in this you will learn about
+## In this you will learn about
 
 ### Decision making
 ### Loops
